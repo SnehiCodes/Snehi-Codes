@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648996788 source:c:\users\snehi\desktop\c c++\factorial recursion\main.c
+	<stdio.h>
+	<string.h>
+
